@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\baran\desktop\okul\c programs\rent_a_car\rent_a_car\source.c(40): warning C4013: 'system' undefined; assuming extern returning int
+  rent_a_car.vcxproj -> C:\Users\baran\Desktop\okul\C programs\rent_a_car\Debug\rent_a_car.exe
